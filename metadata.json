@@ -1,0 +1,8 @@
+{
+  "name": "Mithaas Match AI",
+  "description": "A delightful Indian-sweets styled Match-3 Candy game with real-time AI solver and tactical companion tools powered by Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
